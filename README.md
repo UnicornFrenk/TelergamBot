@@ -1,6 +1,6 @@
 # TelergamBot   @UnicornFrenkBot
 
-***Стек технологий***: SpringBoot, JPA, REST, Spring MVC，Mockito, JUnit    
+***Стек технологий***: SpringBoot, JPA, REST, Spring MVC，Mockito, JUnit, Maven   
 ***Java Version***: Java 8
 
 ***Тестирование системы***:    
